@@ -1,6 +1,12 @@
-function Listing(){
-    return(
-        <h1>Pagina de listagem</h1>
+import MovieStar from "../../components/MovieStars";
+import Pagination from "../../components/Pagination";
+
+function Listing() {
+    return (
+        <>
+            <Pagination />
+            <MovieStar />
+        </>
     );
 }
 
