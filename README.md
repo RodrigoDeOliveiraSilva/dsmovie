@@ -1,5 +1,7 @@
 # dsmovie
- Movie review website, with Java Spring Boot and ReactJS.  Developed at DevSuperior's Spring React Week.
+O Backend  foi implementado com apoio do Spring e ORM JPA.
+O padrão do projeto foi o MVC.
+O Frontend com Java Script React, CSS,bootstrap,typescript e node.js.
 
 
 OBS: A API está hospedada no Heroku de forma gratuita, por esse motivo a API entra em descanso e só é reativada no segundo acesso ao site após 1 minuto.
