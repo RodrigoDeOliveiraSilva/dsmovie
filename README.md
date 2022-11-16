@@ -8,4 +8,6 @@ OBS: A API está hospedada no Heroku de forma gratuita, por esse motivo a API en
 # Link do site abaixo.
  https://dsmovie-rodrigo-de-oliveira-silva.netlify.app/
  
- <video src="https://github.com/RodrigoDeOliveiraSilva/dsmovie/blob/main/frontend/public/DsMovie4.avi"></video>
+<p align="center">
+<img width="100%" src="https://github.com/RodrigoDeOliveiraSilva/dsmovie/blob/main/frontend/public/DsMovie1.gif">
+</p>
