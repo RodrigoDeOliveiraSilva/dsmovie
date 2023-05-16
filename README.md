@@ -1,11 +1,11 @@
 # dsmovie
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodrigoDeOliveiraSilva/dsmovie/blob/main/LICENSE) 
 
-O Backend  foi implementado com Spring, ORM JPA Hibernate, padrão do projeto MVC.
-O Frontend com Java Script - React, CSS,bootstrap,typescript e node.js.
+Backend was implemented with Spring, ORM JPA Hibernate, MVC design pattern.
+Frontend with Java Script - React, CSS, bootstrap, typescript and node.js.
 
-Update do Spring e inclusão do Cors, para garantir a segurança do backend.
-Troquei o Local do Backend da Heroku para outro Provedor de nuvem.
+Spring update and Cors inclusion to ensure backend security.
+I switched Backend Location on Heroku to another Cloud Provider.
 
 # Link do site abaixo.
  https://dsmovie-rodrigo-de-oliveira-silva.netlify.app/
@@ -16,22 +16,29 @@ Troquei o Local do Backend da Heroku para outro Provedor de nuvem.
 
 # How to run the project
 
-### Enter the backend project folder
+### Backend
+#### Enter the backend project folder
 ```bash
 cd backend
 ```
-#### Run The project
+#### Install backend dependency
+```bash
+mvn install
+```
+#### Run The project Backend
 ```bash
 ./mvnw spring-boot:run
 ```
-
+### Frontend
 ### Enter the backend project folder
 ```bash
 cd frontend
 ```
+#### Install frontend dependency
 ```bash
 npm instal
 ```
+#### Run The project frontEnd
 ```bash
 npm start
 ```
