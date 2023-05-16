@@ -1,7 +1,7 @@
 # dsmovie
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodrigoDeOliveiraSilva/dsmovie/blob/main/LICENSE) 
 
-Backend was implemented with Spring, CORS config Spring, ORM JPA Hibernate and MVC.
+Backend was implemented with Spring, CORS config, ORM JPA Hibernate, CI/CD and MVC pattern.
 
 Frontend with Java Script - React, CSS, bootstrap, typescript and node.js.
 
