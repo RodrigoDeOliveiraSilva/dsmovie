@@ -1,5 +1,5 @@
 # dsmovie
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodrigoDeOliveiraSilva/DsListOnGitPod/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodrigoDeOliveiraSilva/dsmovie/blob/main/LICENSE) 
 
 O Backend  foi implementado com Spring, ORM JPA Hibernate, padrão do projeto MVC.
 O Frontend com Java Script - React, CSS,bootstrap,typescript e node.js.
