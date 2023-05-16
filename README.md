@@ -1,5 +1,6 @@
 # dsmovie
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodrigoDeOliveiraSilva/dsmovie/blob/main/LICENSE) 
+
 Film review application developed during Spring React Week.
 
 Backend was implemented with Spring, CORS config, ORM JPA Hibernate, CI/CD and MVC pattern.
