@@ -2,6 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodrigoDeOliveiraSilva/dsmovie/blob/main/LICENSE) 
 
 Backend was implemented with Spring, ORM JPA Hibernate, MVC design pattern.
+
 Frontend with Java Script - React, CSS, bootstrap, typescript and node.js.
 
 Spring update and Cors inclusion to ensure backend security.
