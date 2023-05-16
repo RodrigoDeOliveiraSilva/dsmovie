@@ -6,6 +6,7 @@ Backend was implemented with Spring, CORS config Spring, ORM JPA Hibernate and M
 Frontend with Java Script - React, CSS, bootstrap, typescript and node.js.
 
 Spring update and Cors inclusion to ensure backend security.
+
 I switched Backend Location on Heroku to another Cloud Provider.
 
 # Link do site abaixo.
